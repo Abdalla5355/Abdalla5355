@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla Ashraf</h1>
-<h3 align="center">A passionate Student in faculty of computer science of cairo university and SWE and Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer and Flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla5355&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla5355" /> </p>
 
