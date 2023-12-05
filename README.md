@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalla5355" alt="abdalla5355" /></a> </p>
 
-- 🔭 I’m currently working on [Tourath Mobile App](https://github.com/Abdalla5355/Tourath-Mobile-App)
-
-- 🌱 I’m currently learning **react, flutter and UI/UX principles**
+- 🌱 I’m currently specialised ** Flutter and UI/UX principles**
 
 - 📫 How to reach me **abdallaashraf534@gmail.com**
 
